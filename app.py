@@ -2,6 +2,7 @@ import streamlit as st
 import requests
 import pandas as pd
 
+st.info("⚠️ Demo Mode: Backend not connected. Showing sample results.")
 # =====================================================
 # 🧠 SESSION MEMORY (SMART SQL MEMORY)
 # =====================================================
